@@ -12,3 +12,9 @@ so this program runs the main commands that delet crutial parts of the redis dat
 ## SHOWCASE
 
 <img width="1920" height="1080" alt="Screenshot_2026-03-01_13_56_34" src="https://github.com/user-attachments/assets/313d1841-002b-4cb3-b362-f62ee01f9c0f" />
+
+
+# tut for finding redis servers
+[shodan search](https://www.shodan.io/search?query=product%3Aredis+%22redis_version%3A5.%22)
+you can change the target version in the shodan filters 
+(lower version = easier nuke)
