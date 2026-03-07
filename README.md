@@ -1,7 +1,7 @@
 # redis-nuker
 redis is an In-Memory Data Store. It was designed to solve the "bottleneck" problem when a website gets too much traffic, basically it's used for storing data and the funny thing about redis is it's literally the most unsecure thing ever and yet people still use it redis's default settings are quite literaly unprotected server access meaning you can get the ip and port of the redis part of the website and connect to it via the command ```redis-cli``` but the redis commands are really slow to learn so i made a simple program that does what we all want to do
 # BE AS MUCH OF AN ASSHOLE AS WE CAN
-so this program runs the main commands that delet crutial parts of the redis database
+so this program runs the main commands that delete crutial parts of the redis database
 
 ```
   things the program deletes
